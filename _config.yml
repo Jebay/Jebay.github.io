@@ -37,10 +37,10 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              jebay.joly@gmail.com
 twitter:            JebayJoly
-facebook:           username
-github-url:         https://github.com/Jebay
+#facebook:           username
+github-url:         Jebay
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:           jeanbaptistejoly
 #xing:              username
@@ -74,3 +74,6 @@ jekyll-mentions:
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
+=======
+#theme: jekyll-theme-midnight
+remote_theme:hydecorp/hydejack

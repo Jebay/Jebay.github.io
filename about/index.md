@@ -1,31 +1,18 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About me
+tags: [about]
+date: 2020-01-31
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+<center><b>Jean-Baptiste JOLY</b>  I'm a DevSecOps Engineer with years of experience in Security
+You want to meet me or get in touch ?</center>
 
-## Preview
+## Experiences
+* <b>OPS Engineer</b> at Octo Technology - 2018
+* <b>Security Engineer</b> at Advens - 2016
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+## Education
+* EPITA - CS Engineer - 2016
+* UQAC - Exchange Abroad - 2012
