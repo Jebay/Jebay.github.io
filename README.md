@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Moon Jekyll Theme [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
   
 ## `Sorry guys but there will be no update until I buy a new laptop.`
@@ -67,4 +66,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
->>>>>>> 6a5ab2bce8e3b3351bfa7b285fc8f967e3ed0311
