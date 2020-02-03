@@ -198,13 +198,17 @@ header .entry-meta {
         background-image: none !important;
     }
     @media #{$medium} {
+		width: auto;
+		height: auto;
         color: white;
         padding: 4em;
         margin-left: -4rem;
         margin-right: -4rem;
         margin-top: -2rem;
         border-radius: 3px 3px 0 0;
-        background-color: rgba($black, 0.6);
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-color: rgba($black, 0.6);
         background-blend-mode: multiply;
         background-position: center center;
     }
@@ -215,7 +219,9 @@ header .entry-meta {
         margin-right: -4rem;
         margin-top: -2rem;
         border-radius: 3px 3px 0 0;
-        background-color: rgba($black, 0.6);
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-color: rgba($black, 0.6);
         background-blend-mode: multiply;
         background-position: center center;
     }
