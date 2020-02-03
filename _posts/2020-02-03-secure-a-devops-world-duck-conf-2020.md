@@ -5,6 +5,7 @@ date: 2020-02-03
 excerpt: "Résumé de ma conférence à la Duck Conf 2020"
 tags: [post, images, duckConf]
 comments: true
+feature: /assets/img/Talk_ContinuousSecurity.jpg
 ---
 
 La semaine dernière, lors de la Duck Conf 2020 ; conférence tech sur l'architecture de SI ; j'ai eu la chance de pouvoir donner une conférence sur le thème de la sécurité informatique.
