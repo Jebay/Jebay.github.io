@@ -14,7 +14,7 @@ Le but de ce talk étant d'initier et sensibiliser les Devs, Ops, Architectes, e
 ### Le programme
 
 <figure>
-<a href="https://www.laduckconf.com"><img src="https://github.com/Jebay/Jebay.github.io/blob/master/assets/img/Talk_ContinuousSecurity.jpg"></a><figcaption><a href="https://www.laduckconf.com/programme/" title="Continuous Security - Duck Conf 2020 ">Continuous Security - Duck Conf 2020</a>.</figcaption>
+<a href="https://www.laduckconf.com"><img src="https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/73475245_2793131700698612_7811718674384945152_n.png?_nc_cat=107&_nc_ohc=E5aG1z6_5AUAX-9GqV5&_nc_ht=scontent-cdg2-1.xx&oh=f0458a11f24d828a2a8df4a8bef850e8&oe=5EC287C2"></a><figcaption><a href="https://www.laduckconf.com/programme/" title="Continuous Security - Duck Conf 2020 ">Continuous Security - Duck Conf 2020</a>.</figcaption>
 </figure>
 
 #### Les speakers
