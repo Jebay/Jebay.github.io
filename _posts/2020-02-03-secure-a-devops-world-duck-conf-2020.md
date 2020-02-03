@@ -8,7 +8,7 @@ comments: true
 ---
 
 La semaine dernière, lors de la Duck Conf 2020 ; conférence tech sur l'architecture de SI ; j'ai eu la chance de pouvoir donner une conférence sur le thème de la sécurité informatique.
-Le but de cette conférence étant d'initier et sensibiliser les Devs, Ops, Architectes, ..., aux enjeux de sécurité et en particulier à l'intégration de la sécurité au sein du cycle DevOps de développement.
+Le but de ce talk étant d'initier et sensibiliser les Devs, Ops, Architectes, etc., aux enjeux de sécurité et en particulier à l'intégration de la sécurité au sein du cycle DevOps de développement.
 
 ### Le programme
 
@@ -18,13 +18,11 @@ Le but de cette conférence étant d'initier et sensibiliser les Devs, Ops, Arch
 
 #### Les speakers
 
-{% highlight html %}
 <figure class="half">
     <a href="Jean-Baptiste JOLY"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQGvuL-oclDuNA/profile-displayphoto-shrink_200_200/0?e=1586390400&v=beta&t=WF7RrjnCJGR1zcUOoXFFSwayafitifBeyelQqDFuRIo"></a>
     <a href="Didier Bernaudeau"><img src="https://media-exp1.licdn.com/dms/image/C4D03AQEzMteQ-W4mRw/profile-displayphoto-shrink_200_200/0?e=1586390400&v=beta&t=R0VOXqb31UXYQsGbVQTVrhGPMTG8noAU4q1DTP36eTE"></a>
     <figcaption>Jean-Baptiste Joly et Didier Bernaudeau.</figcaption>
 </figure>
-{% endhighlight %}
 
 #### Le pitch
 
