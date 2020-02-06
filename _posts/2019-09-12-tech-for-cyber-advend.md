@@ -8,7 +8,7 @@ comments: true
 feature: https://www.advens.fr/sites/default/files/public/styles/full_event_up/public/events/images/bandeau_tech_for_cyber_v3.1_plan_de_travail_1.png?itok=rVaLVcKa
 ---
 
-**TL;DR**
+## TL;DR
 Une matinée de présentation commercial d'outils de sécurité informatique.
 Pour Sam Curry (Chief Product / Security Officer at Cybereason), les SOC seront autonomes à horizon 2025.
 
