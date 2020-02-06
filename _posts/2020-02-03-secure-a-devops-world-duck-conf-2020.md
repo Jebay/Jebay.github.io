@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Secure a DevOps wolrd !"
+title: "Secure a DevOps world !"
 date: 2020-02-03
 excerpt: "Résumé de ma conférence à la Duck Conf 2020"
 tags: [post, images, duckConf]
