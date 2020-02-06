@@ -4,4 +4,6 @@
 
 Discovering **GitHub Pages** and **Jekyll**
 
-Results can be seen here : https://jebay.github.io/ 
+Results can be seen here : https://jebay.github.io/
+
+Image background : Photo by Lubo Minar on Unsplash
