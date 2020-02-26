@@ -40,7 +40,7 @@ La sécurité ne doit plus être reléguée à un simple audit. La problématiqu
 
 #### Les slides
 
-<iframe width="560" height="315" src="https://www.slideshare.net/OCTOTechnology/continuous-security-secure-a-devops-world" frameborder="0"> </iframe>
+Les slides sont accessibles ici : [Slideshare](https://www.slideshare.net/OCTOTechnology/continuous-security-secure-a-devops-world)
 
 #### La vidéo
 
