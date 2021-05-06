@@ -2,7 +2,7 @@
 layout: page
 title: About me
 tags: [about]
-date: 2020-01-31
+date: 2021-05-06
 comments: false
 ---
 
@@ -11,7 +11,8 @@ I'm a DevSecOps Engineer with years of experience in Security.<br>
 You want to meet me or get in touch ?</center>
 
 ## Experiences
-* <b>OPS Engineer</b> at Octo Technology - Since 2018
+* <b>Platform Security Engineer</b> at Doctolib - Sinco 2020
+* <b>OPS Engineer</b> at Octo Technology - 2018 to 2020
 * <b>Security Engineer</b> at Advens - 2016 to 2018
 
 ## Education
